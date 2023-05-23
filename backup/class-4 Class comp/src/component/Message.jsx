@@ -12,7 +12,7 @@ class Message extends React.Component {
         return <div>
             <pre>{JSON.stringify(this.edetails)}</pre>
             <hr />
-
+            <button>Test</button>
         </div>
     }
 }
