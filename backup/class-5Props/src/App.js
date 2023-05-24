@@ -1,10 +1,10 @@
-
+//import './assets/css/airtel.css'
 import Navbar from './Navbar/Navbar'
-import Message from './StateEx/Message'
+import CompA from './propsEx/CompA'
 let App = () => {
   return <div>
     <Navbar />
-    <Message />
+    <CompA />
   </div>
 }
 
