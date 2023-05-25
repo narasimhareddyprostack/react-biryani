@@ -1,0 +1,22 @@
+React Installation
+App - Flow/Folder Structure
+What is React Component?
+How to create Component? class/function
+How to read data ?  {} - react expression
+Bootstrap- enable
+
+Props--> Props Drilling
+State 
+Event Handling 
+Event Binding
+
+step 1: convert your component data , property to state object property
+
+msg = "Hello"
+
+state = { 
+	msg : "Hello
+            }
+
+step 2: to update state, use setState() method 
+step 3: once state is update, render() method will exexute
