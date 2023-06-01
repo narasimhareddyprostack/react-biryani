@@ -4,3 +4,10 @@ Req Fields: None
 Access Type: Public
 
 https://jsonplaceholder.typicode.com/
+
+second example:
+
+API URL:https://dummyjson.com/users
+Method Type: GET
+Req Fields: None
+Access Type: Public
