@@ -36,8 +36,8 @@ class Users extends Component {
                                     Object.keys(this.state.user).length > 0 ?
                                         <>
                                             {
-                                                this.state.user.users.map((user, index) => {
-                                                    return <tr key={index}>
+                                                this.state.user.users.map((user) => {
+                                                    return <tr >
                                                         <td>{user.id}</td>
                                                         <td>{user.lastName}</td>
                                                         <td>{user.age}</td>
