@@ -11,14 +11,3 @@ API URL:https://dummyjson.com/users
 Method Type: GET
 Req Fields: None
 Access Type: Public
-
-
-Redux Notes:
-===================
-Step  1: install required redux package or dependencies
-
-        >npm i redux react-redux  @redux-devtools/extension
-
-step 2:Install redux dev tools crome extension
-       Redux DevTools 3.0.19
-step 3:
