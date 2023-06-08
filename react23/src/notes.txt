@@ -22,3 +22,19 @@ Step  1: install required redux package or dependencies
 step 2:Install redux dev tools crome extension
        Redux DevTools 3.0.19
 step 3:
+
+
+
+Qeustions:
+1.Dispatch action? how to Dispatch action?
+using - useDispatch() hook?
+
+import {useDispatch} from 'react-redux' 
+
+let dispatch = useDispatch()
+
+
+2)What is redux action?
+
+
+action is function, and return actionable object
